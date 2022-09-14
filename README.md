@@ -1,13 +1,13 @@
 ## Olá, Eu me chamo Marcos Vinicius!
 
 - Sou um desenvolvedor de games com Unity em Csharp
-- Atualmente estou estudando javascript
+- Atualmente estou estudando desenvolvimento web front-end com javascript
 - Particularmente amo "criar coisas digitais" e programar
 
 <div align="center">
   <a href="https://github.com/MarcosViniCarvalho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniCarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -20,7 +20,6 @@
   <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_xQZU3CEa.png">
 </div>
 </div>
   
